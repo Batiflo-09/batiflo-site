@@ -69,7 +69,7 @@
 </head>
 <body>
   <header>
-    <h1>Batî Flo</h1>
+    <h1>Bati Flo</h1>
     <p>Artisan Plaquiste & Maçon en Vallée de Bethmale</p>
     <nav>
       <a href="#services">Services</a>
@@ -106,11 +106,11 @@
   <section id="infos">
     <h2>Informations légales</h2>
     <p><strong>SIRET :</strong> 94804951500018</p>
-    <p>Artisan indépendant depuis plus de 3 ans en vallée de Bethmale.</p>
+    <p>Artisan indépendant depuis 3 ans en vallée de Bethmale.</p>
   </section>
 
   <footer>
-    <p>© 2025 Batî Flo – Tous droits réservés.</p>
+    <p>© 2025 Bati Flo – Tous droits réservés.</p>
     <p>Site vitrine réalisé par Florent Véron</p>
   </footer>
 </body>
